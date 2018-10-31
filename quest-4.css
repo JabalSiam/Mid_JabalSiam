@@ -1,0 +1,28 @@
+body{
+    overflow: auto;
+}
+
+part1{
+    width:20%;
+    float:left;
+}
+part2{
+    text-align: center;
+    width: 80%;
+    float:right;
+}
+button{
+    color: lightgrey;
+    background-color: black;
+    
+}
+p{
+    margin:10px 10px 10px 10px;
+    border:10px 10px 10px 10px;
+    border-color: dashed black; 
+    padding: 10px 10px 10px 10px;
+}
+li{
+    padding:20px;
+    background-color:darkgrey; 
+}
